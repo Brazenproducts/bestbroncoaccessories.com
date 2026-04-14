@@ -1,0 +1,9 @@
+<svg width="900" height="520" viewBox="0 0 900 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="900" height="520" rx="28" fill="#1B1B1B"/>
+<rect x="120" y="260" width="480" height="92" rx="24" fill="#282828" stroke="#E67E22" stroke-width="5"/>
+<rect x="250" y="185" width="170" height="84" rx="24" fill="#282828" stroke="#E67E22" stroke-width="5"/>
+<circle cx="250" cy="382" r="48" fill="#111" stroke="#F4B15F" stroke-width="5"/>
+<circle cx="500" cy="382" r="48" fill="#111" stroke="#F4B15F" stroke-width="5"/>
+<text x="84" y="110" fill="#FFF0E2" font-family="Oswald, Arial, sans-serif" font-size="58" font-weight="700">FORD BRONCO</text>
+<text x="84" y="165" fill="#E67E22" font-family="Inter, Arial, sans-serif" font-size="28">Seat covers, storage, lighting, and trail-ready upgrades.</text>
+</svg>
